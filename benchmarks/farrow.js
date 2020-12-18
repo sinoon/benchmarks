@@ -1,4 +1,4 @@
-import { Http, Response } from 'farrow-http'
+const { Http, Response } = require('farrow-http')
 
 const http = Http()
 
